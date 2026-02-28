@@ -1,0 +1,5 @@
+{
+  "name": "MedPrice AI",
+  "description": "A pharmacy transparency tool for the AdvanceHealth Hackathon. Scan medications to compare prices and check stock levels at nearby pharmacies using Gemini AI and Google Search grounding.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
